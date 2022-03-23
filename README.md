@@ -8,13 +8,15 @@
 ## お品書き
 - 言語
     - C/C++組込み系
+    - C# WPFデスクトップアプリケーション
     - python
         - ツール系
         - WEBアプリケーション（django）
     - javascript(typescript)
         - フロントエンドWEBアプリケーション
 - 開発環境など
-    - docker/linux
+    - docker/linux (MacOS:開発用環境)
+    - Windows11(デスクトップ/ゲーム環境)
     - RespberryPi(Pico)
     - Arduino
     - 周辺回路設計
