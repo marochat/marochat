@@ -14,6 +14,8 @@
         - WEBアプリケーション（django）
     - javascript(typescript)
         - フロントエンドWEBアプリケーション
+    - UNIX系スクリプト全般（bash, perl, ruby等）
+    - Windows系スクリプト Powershell勉強中
 - 開発環境など
     - docker/linux (MacOS:開発用環境)
     - Windows11(デスクトップ/ゲーム環境)
