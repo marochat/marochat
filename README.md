@@ -3,7 +3,7 @@
 - フリープログラマ・エンジニア
 - 個人事業者（予定）
 ## Web Site
-- https://www.marochanet.org (django potal site)
+- https://www.marochanet.org (potal site)
 - https://blog.marochanet.org (wordpress blog site)
 ## お品書き
 - 言語
