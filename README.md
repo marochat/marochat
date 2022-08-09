@@ -14,6 +14,7 @@
         - WEBアプリケーション（django）
     - javascript(typescript)
         - フロントエンドWEBアプリケーション
+    - Rust(Webassemblyその他) 勉強中
     - UNIX系スクリプト全般（bash, perl, ruby等）
     - Windows系スクリプト Powershell勉強中
 - 開発環境など
