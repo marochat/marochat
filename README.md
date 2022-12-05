@@ -16,8 +16,8 @@
         - フロントエンドWEBアプリケーション
         - Reactフロントエンドフレームワーク
     - Rust勉強中
-        − WebAssembly
-        − Tauriデスクトップアプリケーション
+        - WebAssembly − フロントエンドバイナリ
+        - Tauriデスクトップアプリケーション開発
     - UNIX系スクリプト全般（bash, perl, ruby等）
     - Windows系スクリプト Powershell勉強中
 - 開発環境など
