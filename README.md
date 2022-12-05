@@ -1,7 +1,6 @@
 # marochat
 ## 紹介
 - フリープログラマ・エンジニア
-- 個人事業者（予定）
 ## Web Site
 - https://www.marochanet.org (potal site)
 - https://blog.marochanet.org (wordpress blog site)
