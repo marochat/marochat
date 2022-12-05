@@ -15,7 +15,7 @@
     - javascript(typescript)
         - フロントエンドWEBアプリケーション
         - Reactフロントエンドフレームワーク
-    - Rust勉強中
+    - Rust
         - WebAssembly − フロントエンドバイナリ
         - Tauriデスクトップアプリケーション開発
     - UNIX系スクリプト全般（bash, perl, ruby等）
