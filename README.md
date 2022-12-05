@@ -11,10 +11,13 @@
     - C# WPFデスクトップアプリケーション
     - python
         - ツール系
-        - WEBアプリケーション（django）
+        - WEBアプリケーション（django -> FastAPI）
     - javascript(typescript)
         - フロントエンドWEBアプリケーション
-    - Rust(Webassemblyその他) 勉強中
+        - Reactフロントエンドフレームワーク
+    - Rust勉強中
+        − WebAssembly
+        − Tauriデスクトップアプリケーション
     - UNIX系スクリプト全般（bash, perl, ruby等）
     - Windows系スクリプト Powershell勉強中
 - 開発環境など
